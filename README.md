@@ -11,7 +11,7 @@
 
 <br>
 
-![screenshot](https://github.com/nishitsurti51/nishitsurti-portfolio/raw/master/src/assets/screenshot.png)
+![screenshot](https://github.com/nishitsurti51/nishitsurti-portfolio/raw/main/src/assets/screenshot.png)
 
 ## How To Use
 
