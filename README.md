@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/nishitsurti/nishitsurti-portfolio
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd nishitsurti-portfolio
 
 # Install dependencies
 $ yarn install
